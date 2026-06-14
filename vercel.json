@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://hello-world--chouikimahdiabd.replit.app/$1"
+    }
+  ]
+}
