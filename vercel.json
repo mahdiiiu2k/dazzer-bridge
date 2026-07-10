@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://hello-page-1--cloudgateaii.replit.app/$1"
+      "destination": "https://hello-page--mahdiiiu2k.replit.app/$1"
     }
   ]
 }
