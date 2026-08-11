@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://hello-page--t9qrxzl.replit.app/$1"
+      "destination": "blink-hello--afl2zie.replit.app/$1"
     }
   ]
 }
